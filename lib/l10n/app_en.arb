@@ -1,0 +1,41 @@
+{
+  "@_GENERIC": {},
+  "genericError": "Error",
+  "@genericError": {
+    "description": "Generic error message"
+  },
+  "genericEmpty": "Empty",
+  "@genericEmpty": {
+    "description": "Generic empty text"
+  },
+  "genericCancel": "Cancel",
+  "@genericCancel": {
+    "description": "Generic cancel text"
+  },
+  "genericOk": "OK",
+  "@genericOk": {
+    "description": "Generic OK text"
+  },
+
+  "@_LOGIN_PAGE": {},
+  "loginButton": "Login",
+  "@loginButton": {
+    "description": "Login button text"
+  },
+  "registerButton": "Register",
+  "@registerButton": {
+    "description": "Register button text"
+  },
+
+  "@_SETTINGS_PAGE": {},
+  "pageSettingsTitle": "Settings",
+  "@pageSettingsTitle": {
+    "description": "Title for settings page"
+  },
+  "pageSettingsLogoutTitle": "Logout",
+  "@pageSettingsLogoutTitle": {
+    "description": "Title for logout action"
+  },
+
+  "@_END_OF_FILE": {}
+}

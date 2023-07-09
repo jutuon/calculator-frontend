@@ -1,0 +1,10 @@
+{
+    "genericError": "Virhe",
+    "genericEmpty": "Tyhjä",
+    "genericCancel": "Peruuta",
+    "genericOk": "OK",
+    "loginButton": "Kirjaudu",
+    "registerButton": "Rekisteröidy",
+    "pageSettingsTitle": "Asetukset",
+    "pageSettingsLogoutTitle": "Kirjaudu ulos"
+}
